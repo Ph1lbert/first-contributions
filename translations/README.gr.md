@@ -11,7 +11,7 @@
 
 <img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
 
-Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το]( https://help.github.com/articles/set-up-git/ )
+Εάν δεν έχετε εγκατεστημένο το git στον υπολογιστή σας, [εγκαταστήστε το.]( https://help.github.com/articles/set-up-git/ )
 
 ## Αντιγράψτε το αποθετήριο (fork)
 
